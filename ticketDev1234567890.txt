@@ -1,0 +1,19 @@
+-----------------------------
+  BUS TICKET - TRAVEL AGENCY 
+ -----------------------------
+Passenger name: Dev
+Phone number:   1234567890
+Age:            22
+Category:       Student
+Route:          Kochi to Bangalore
+Departure Time: 09:00 PM
+Seats booked:   2
+Booking Time:   2025-08-13 22:14:59
+------------------------------
+Ticket Price:   900
+Total amount:   1800
+Discount:       270.0
+Final Amount:   1530.0
+------------------------------
+Thank you for booking with us!
+Have a safe journey,Dev!
